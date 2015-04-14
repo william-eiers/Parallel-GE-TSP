@@ -1,9 +1,3 @@
-/*
- * CS140 Final Project
- * William Eiers 7859812
- * Armin Akhbari 8285298
- */
-
 #ifndef CHROMOSOME_H
 #define CHROMOSOME_H
 //#include "City.h"
