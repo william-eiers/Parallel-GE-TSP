@@ -1,9 +1,7 @@
-CS140 Final Project
-- William Eiers 7859812
-- Armin Akhbari 8285298
+William Eiers, Armin Akhbari
 
 Our project is the implementation of a parallel genetic algorithm as a heuristic
-for the Traveling Salesman Problem. Read the report for details of the algorithm.
+for the Traveling Salesman Problem.
 This file contains instructions on how to compile and run the program.
 
 If you want to input your own list of cities, you need to pass in the distance
